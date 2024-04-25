@@ -1,6 +1,6 @@
 Para ambos proyectos, seguir las mismas instrucciones:
 
-1. Estando en raíz del proyecto, entrar a la carpeta PARTE1 ó PARTE2 con "cd PARTE1" ó "cd PARTE1".
+1. Estando en raíz del proyecto, entrar a la carpeta PARTE1 ó PARTE2 con "cd PARTE1" ó "cd PARTE2".
 
 2. Ejecutar el comando "npm install" para instalar las dependencias necesarias.
 
